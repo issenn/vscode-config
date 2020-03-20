@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "shan.code-settings-sync",
-    "piotrpalarz.vscode-gitignore-generator"
+    "shan.code-settings-sync"
   ]
 }
